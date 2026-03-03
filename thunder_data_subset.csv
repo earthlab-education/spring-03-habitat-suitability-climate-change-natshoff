@@ -1,0 +1,8 @@
+,"SCENARIO","TIME PERIOD","MODEL","X-VALUE","Y-VALUE"
+,"Scenario","Time Period","Model","Dec-Jan-FebDaily Minimum Temperature(°C)","Mar-Apr-MayTotal Precipitation(mm)"
+,"RCP 8.5","2040-2069","MIROC-ESM","-5.5","194.3"
+,"RCP 8.5","2040-2069","IPSL-CM5A-MR","-6.7","161.2"
+,"RCP 8.5","2040-2069","MRI-CGCM3","-9","144.7"
+,"RCP 8.5","2040-2069","HadGEM2-ES365","-4.8","185.6"
+,"RCP 8.5","2040-2069","20CMIP5ModelMean","-7.1","160.4"
+,"HISTORICAL","1971-2000","20CMIP5ModelMean","-10.7","133.7"
